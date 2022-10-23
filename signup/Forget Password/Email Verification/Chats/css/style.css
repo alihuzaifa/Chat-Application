@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.person{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.list{
+    cursor: pointer;
+}
+.dot{
+    margin-left: 100px !important;
+}
+.dots{
+    width: 9px;
+    height: 40px;
+}
+.friend{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.message-person{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 0.2px solid black;
+
+}
+.logout{
+    width: 50px;
+    height: 20px;
+    cursor: pointer;
+}
+.friend-name{
+    cursor: pointer;
+}
